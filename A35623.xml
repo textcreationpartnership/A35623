@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Case of many hundreds of poor English-captives in Algier together with some remedies to prevent their increase : humbly represented to both Houses of Parliament</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35623</idno>
+            <idno type="STC">Wing C941</idno>
+            <idno type="STC">ESTC R168</idno>
+            <idno type="EEBO-CITATION">13165832</idno>
+            <idno type="OCLC">ocm 13165832</idno>
+            <idno type="VID">98240</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35623)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98240)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 449:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Case of many hundreds of poor English-captives in Algier together with some remedies to prevent their increase : humbly represented to both Houses of Parliament</title>
+               </titleStmt>
+               <extent>[3] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Slavery --  Algeria --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Restoration, 1660-1688 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:98240:1"/>
+            <pb facs="tcp:98240:1" rendition="simple:additions"/>
+            <head>THE CASE Of many HUNDREDS OF Poor Engliſh-Captives, IN ALGIER, <hi>
+                  <hi>With ſome Remedies</hi> To Prevent their Increaſe, Humbly Repreſented to</hi> Both HOUSES of PARLIAMENT.</head>
+            <p>THat there hath been taken, ſince their laſt breach with us, not leſs than an Hundred and Forty Sail of Ships and other Veſſels, many of them being richly laden, beſides the great Advance they make upon the perſons they take, there being at this time upwards of 1500, (beſides many Hundreds who have Dyed there of the Plague,) who ſuffer and undergo moſt miſerable Slavery, put to dayly extream and difficult Labour, but a poor ſupply of Bread and Water for their Food, ſtripped of their Cloaths and covering, and their Lodging on the cold Stones and Bricks; but what is more, their extream hard and ſavage la<g ref="char:EOLhyphen"/>ding them ſometimes with great burthens of Chains, and ſhut up in noiſome places, commonly adding ſome hundreds of blows on their bare feet, forcing out the very Blood, and ſometimes on the Back, ſometimes on the Belly, and ſometimes on them all, inſomuch that ma<g ref="char:EOLhyphen"/>ny are long decripit, ſome for ever, and ſome dying under their hands. But above all, is their frequent forcing of Men and Boys by their exe<g ref="char:EOLhyphen"/>crable <hi>Sodomy,</hi> alſo their inhumane abuſes and force to the Bodies of Women and Girls, frequently attempting <hi>Sodomy</hi> on them alſo, ſome of whom both Males and Females have been ſo abuſed as hardly to e<g ref="char:EOLhyphen"/>ſcape with their Lives; All which Uſage is ſo notoriouſly known by thoſe who have been redeemed thence, that it needs no proof.</p>
+            <pb facs="tcp:98240:2"/>
+            <p>ANd <hi>Firſt,</hi> It is apparent that that Promoters of all the inhumane uſage of Chriſtians, are principally the <hi>Jews</hi> there Inhabiting, there being hardly any one Veſſel of thoſe cruel Pyrates, but the owners thereof are for a great part <hi>Jews.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> It is apparent alſo, that all thoſe ill-gotten Ships and Goods which they ſo barbarouſly Rob and take from the <hi>Engliſh</hi>-Merchants and Marriners, (to the great Impoveriſhing of this Nation) the <hi>Jews</hi> are the conſtant Buyers of, and ſo of the <hi>Engliſh</hi>-Captives, there being few Slaves in <hi>Algier,</hi> but a <hi>Iew</hi> is their Patroon, or elſe hath at leaſt a ſhare in them.</p>
+            <p>
+               <hi>Thirdly,</hi> It is further evident that the <hi>Jews</hi> are the chief-Inſtigators of the <hi>Turks</hi> and <hi>Moors</hi> to make thoſe poor Chriſtian-Captives to deny their Lord and Saviour Jeſus Chriſt; and it is they who incourage ſuch on whom they ſo prevail to turn Runnagadoes, and prefer them to commands and Office in their Pyratical ſhips.</p>
+            <p>
+               <hi>Fourthly,</hi> That it is the <hi>Jews</hi> who inhaunce the price of Chriſtian ſouls, by Buying them at ſmall Rates, and then exacting great ſumms for their Redem<g ref="char:EOLhyphen"/>ption, quite contrary to their uſage at the taking of <hi>Jeruſalem,</hi> when Thirty <hi>Jews</hi> were ſold for a Groat, and poſſibly the Chriſtians might now be Re<g ref="char:EOLhyphen"/>deemed at much lower Rates, were it not for the <hi>Jews</hi> who buy them, and do now exact a Thouſand pound for the Redemption of one Captive, when poſſi<g ref="char:EOLhyphen"/>bly he, nor any of his Relations, are not worth half the value.</p>
+            <p>
+               <hi>Fifthly,</hi> That the Jews are thoſe who ſtir up the <hi>Turks</hi> and <hi>Moors,</hi> ſo to beat and abuſe poor Captives, they not daring to do it themſelves, for fear their Blows ſhould be returned upon them again; ſo that the Natives of the place are but meer Vaſſals and Slaves to the Jews, and for the Lucre of their Money do Execute all their Cruel and Bloody Deſigns and projects both abroad and at home; all which will be abundantly proved by many Witneſſes, when ever they ſhall be called thereunto.</p>
+            <p>
+               <hi>Sixthly,</hi> It is much to be feared that the <hi>Jews</hi> in <hi>Algier,</hi> have too great cor<g ref="char:EOLhyphen"/>reſpondency with and countenance from the <hi>Jews</hi> here in <hi>England,</hi> and that by their means it is that they in <hi>Algier</hi> have always Liſts of all our <hi>Engliſh</hi> ſhips, eſpecially of the Fleets coming from any of His Majeſties Plantations abroad, and of the very time they are expected to go out or return, with a perfect Ac<g ref="char:EOLhyphen"/>count of the quality and condition of all Merchants and paſſengers aboard, if any ſuch there be, by which means they exact ſuch great ſumms as aforeſaid.</p>
+            <p>And this may further appear when it is conſidered how little the Dammage is, as well to <hi>England</hi> as to all other parts of <hi>Chriſtendom</hi> by <hi>Tripoly</hi> or <hi>Tunis,</hi> when ever they make any breach upon us; the true reaſon whereof is, the paucity and poverty of the <hi>Jews</hi> in thoſe places: And therefore for a Remedy hereof, It is humbly propoſed to the Conſideration of both Houſes of <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> one or both of theſe Two ways following.</p>
+            <p>
+               <hi>Firſt,</hi> By the Deſtruction of this Town of <hi>Algier</hi> (the <hi>Peſt</hi> of <hi>Chriſten<g ref="char:EOLhyphen"/>dom</hi>) and that with no great Force and Charge may be totally Demoliſh<g ref="char:EOLhyphen"/>ed, with their Mould and Fortifications, as may be eaſily Demonſtrated were there but a due Incouragement given to ſuch as are willing to Un<g ref="char:EOLhyphen"/>dertake the ſame.</p>
+            <pb facs="tcp:98240:2"/>
+            <p>
+               <hi>Secondly,</hi> Or to make a Law, That whatever Damage or Loſs the <hi>Engliſh</hi> ſhall ſuſtain by means or procurement of the Jews in <hi>Algier</hi> or elſewhere, it ſhall be required and made good to the Looſers out of the Eſtates of the Jews here in <hi>England.</hi> Which is Humbly offered for theſe Reaſons.</p>
+            <p>
+               <hi>Firſt,</hi> Becauſe ſuch a Law may ſave a great Expence of Treaſure, and alſo of Chriſtian Blood, which this Nation hath ſadly felt, and may Effect that Peace and Tranquility to the <hi>Engliſh</hi> Traders which hitherto Force hath not done.</p>
+            <p>
+               <hi>Secondly,</hi> Becauſe the Jews have here the full Exerciſe of their Falſe and pernicious Religion and Worſhip, whilſt thouſands of poor <hi>Proteſtant</hi> Chriſtians differing in no point from the Doctrine of the Church of <hi>England,</hi> are daily haraſed and undone, to the great joy and Laughter of the Jews, ſee<g ref="char:EOLhyphen"/>ing Chriſtians thus tear and moleſt one another, whilſt themſelves are pro<g ref="char:EOLhyphen"/>jecting to deſtroy us all abroad, and eating up the Trade of our Engliſh Mer<g ref="char:EOLhyphen"/>chants at home.</p>
+            <p>
+               <hi>Thirdly,</hi> The Charity of this Nation may be Imployed on other Good Occaſions, which is now Collected for the Redemption of CAPTIVES, for that it is rather an Incouragement to thoſe JEWS of <hi>Algier</hi> Vigorouſly to proceed in their Rapines and Robberies, when they ſhall ſee the Charity of a whole Nation made Uſe of to raiſe Money for the ſatisfying their Inhumane Exactions on poor Chriſtians, and may be eaſily ſuppoſed rather to raiſe the Price of their Redemption, then to Leſſen it.</p>
+            <p>
+               <hi>Fourthly,</hi> It is but <hi>Jus gentium</hi> when a Nation ſuffers by one ſort of Peo<g ref="char:EOLhyphen"/>ple, That Reparation and Satisfaction be required of any others of that ſort of People wherever they may be found in our Power, for on this Principle onely is grounded all Letters of Mart and Repriſal granted by Kings and States. Moreover, it is verily believed, That the JEWS in all places are in a Combination and Society whereby they have Influence on the Proceed<g ref="char:EOLhyphen"/>ings of all JEWS in what place ſoever, and ſhares in their Profit and Loſs.</p>
+            <p>
+               <hi>Fifthly,</hi> The very Terror of ſuch a Law would Ingage thoſe Jews in other more Honeſt Courſes than this of Inriching themſelves by the Ruine and Deſtruction of poor Chriſtians.</p>
+            <p>
+               <hi>Sixthly,</hi> If this or ſome other Courſe be not Effectually taken, thoſe Jews of <hi>Algier</hi> will by their Robberies and Spoil ſo Inrich themſelves, as to be able to ſet forth ſuch Fleets as ſhall Match or Cope with any of our Kings of <hi>Chriſtendom;</hi> witneſs, their great and Unparalel'd Bold<g ref="char:EOLhyphen"/>neſs of daring to come not onely on our Coaſt, but even into our very Channels, to the Ignominy of our Nation, and in Deſpite and contempt of His Majeſty, who is undoubtedly Soveraign of the Narrow Seas.</p>
+            <p>
+               <hi>Seventhly,</hi> By theſe means other Princes and States may by our Ex<g ref="char:EOLhyphen"/>ample take the ſame Meaſures, and make the ſame Law, whereby much Treaſure may be ſaved, which is very often ſpent in maintaining Fleets in the <hi>Mediteranean</hi> Seas; witneſs, that of His Majeſty of <hi>Great Brittain.</hi>
+            </p>
+            <p>
+               <hi>Eighthly,</hi> It is more than probable that by this means His Majeſty may more peaceably Injoy his Right in <hi>Tangier,</hi> which hath been ſo Expenſive to him; for that that War is undoubtedly promoted and Abetted by the Jews of <hi>Algier,</hi> who by their Purſe aſſiſt that Barbarous King both with Men, Money, and Amunition; and will be able on all Occaſions ſtill to do the ſame, if ſome effectual Courſe be not taken to prevent it.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
